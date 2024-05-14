@@ -1,5 +1,7 @@
 ## AutoMarket
 
+Drive your dreams with confidence
+
 AutoMarket is a comprehensive web application designed to streamline the process of buying and selling vehicles online. With intuitive user interfaces for both buyers and sellers, AutoMarket provides a seamless platform for browsing, listing, and managing vehicle listings.
 
 ### Key Features:
